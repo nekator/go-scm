@@ -1,7 +1,7 @@
 module github.com/jenkins-x/go-scm
 
 require (
-	code.gitea.io/sdk/gitea v0.14.0
+	code.gitea.io/sdk/gitea v0.15.1
 	github.com/bluekeyes/go-gitdiff v0.7.0
 	github.com/google/go-cmp v0.5.9
 	github.com/mitchellh/copystructure v1.2.0
@@ -23,7 +23,7 @@ require (
 	github.com/hashicorp/go-version v1.3.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/net v0.0.0-20191021144547-ec77196f6094 // indirect
+	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b // indirect
 	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
 	google.golang.org/appengine v1.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1
